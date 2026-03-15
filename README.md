@@ -17,7 +17,7 @@
 
 ## Full-stack-ish? 
 <p text align="left">I started working in Information Technology about a decade ago with entry-level certs (A+ and similar), then worked as a System Admin and did some IAM work for ~2 years. After that I spent time in a call-center MSP role, eventually moving up to dispatcher / "Jr. NOC engineer".
-Really just mostly confirming-tracking outages & installations. Now I'm taking time to mess around and learn by just doing things. <br/>Some cool-sounding titles along the way, but I still feel like my knowledge is pretty "basic" on most of these topics and that's why I'm here!</p><br/>
+Really just mostly confirming-tracking outages & installations. Now I'm taking time to mess around and learn by just doing things. Some cool-sounding titles along the way, but I still feel like my knowledge is pretty "basic" on most of these topics.<br/> That's why I'm here!</p><br/>
   Learning more every day, switches be trippin.<br/>
   
 </div>
